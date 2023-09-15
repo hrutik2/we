@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Todos": [
+    {
+      "id": 1,
+      "title": "task-1",
+      "status": true
+    },
+    {
+      "id": 1,
+      "title": "task-1",
+      "status": true
+    },
+    {
+      "title": "task-3",
+      "status": false,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
